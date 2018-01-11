@@ -1,6 +1,8 @@
 //  Framework7 Color System (F7Color)
 //  Author: S0n1c
 //  Date: 07/16/16
+// Modified on Jan 2018 by Sirglide @_miayotlan
+// added FBM layout
 
 
 
