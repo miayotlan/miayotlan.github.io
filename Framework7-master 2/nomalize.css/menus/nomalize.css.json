@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle nomalize.css",
+        "command": "nomalize.css:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "nomalize.css",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "nomalize.css:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
