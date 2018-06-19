@@ -47,12 +47,7 @@ function createContentPage() {
     return;
 }
 
-myApp.addNotification({
-    title: 'MiAyotlan',
-    subtitle: 'Hola Como Estas?',
-    message: '<font color="#000000">Gracias por tu Visita, El dia de hoy (12/31/18) hemos Actualizado el App con  Nuevo Contenido </font>.',
-    media: '<img width="44" height="44" style="border-radius:100%" src="https://miayotlan.com/miayotlan/img/logo-miayotlan.png">'
-});
+
 
 var myApp = new Framework7();
 
